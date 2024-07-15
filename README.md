@@ -14,7 +14,7 @@ Welcome to the Text Files Similarity Tool! This tool helps you analyze similarit
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/BelallSameh/text-files-similarity-tool.git
+   git clone https://github.com/BelallSameh/text-similarity-tool.git
    cd text-files-similarity-tool
    ```
 
@@ -42,13 +42,9 @@ For example, if you have three text files (`file1.txt`, `file2.txt`, `file3.txt`
 - scikit-learn
 - numpy
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Feel free to explore and contribute to this project! If you have any suggestions or issues, please open an [issue](https://github.com/BelallSameh/text-files-similarity-tool/issues) or create a [pull request](https://github.com/BelallSameh/text-files-similarity-tool/pulls).
+Feel free to explore and contribute to this project! If you have any suggestions or issues, please open an [issue](https://github.com/BelallSameh/text-similarity-tool/issues) or create a [pull request](https://github.com/BelallSameh/text-similarity-tool/pulls).
 ```
 
 ### Explanation:
