@@ -1,0 +1,3 @@
+Hello, my name is John Smith.
+I am 35 years old and I live in the United States. 
+I work as a software engineer, specializing in developing web applications using modern technologies.
