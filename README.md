@@ -45,20 +45,15 @@ For example, if you have three text files (`file1.txt`, `file2.txt`, `file3.txt`
 ---
 
 Feel free to explore and contribute to this project! If you have any suggestions or issues, please open an [issue](https://github.com/BelallSameh/text-similarity-tool/issues) or create a [pull request](https://github.com/BelallSameh/text-similarity-tool/pulls).
-```
 
-### Explanation:
+## 🤝 Contributing
 
-- **Emojis**: Emojis are used throughout the README to add visual interest and highlight key points (e.g., 📚 for books, 🌟 for features).
-  
-- **Features Section**: The features are listed with emojis and brief descriptions to highlight what the tool can do.
+Contributions are welcome! Please:
+1. Fork the repo
+2. Create a new branch (`feature-branch`)
+3. Commit your changes (`'Add new feature'`)
+4. Push and open a pull request
 
-- **How to Use**: Step-by-step instructions are provided on how to clone, install dependencies, prepare files, run the script, and view results.
+## 📬 Contact
 
-- **Example**: A brief example section illustrates how the tool can be used with sample text files.
-
-- **Dependencies**: Lists the required dependencies to run the tool.
-
-- **License**: Indicates the project's license (MIT License) and provides a link to the LICENSE file for details.
-
-- **Footer**: Includes a call-to-action for contributions and links to raise issues or create pull requests on GitHub.
+For any questions or issues, please contact belalsameh188@gmail.com or open an issue in the repository.
