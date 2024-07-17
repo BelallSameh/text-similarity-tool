@@ -25,7 +25,7 @@ Welcome to the Text Files Similarity Tool! This tool helps you analyze similarit
 
 4. **Run the Script:**
    ```bash
-   python compare.py
+   python compare.py or run using jupyter the file compare.ipynb
    ```
 
 5. **View the Results:**
