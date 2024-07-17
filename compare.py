@@ -66,7 +66,6 @@ def highlight_sentences(texts):
 
     return html_output
 
-# Example usage
 if __name__ == "__main__":
     directory = './'  # Directory containing text files
     texts = read_text_files(directory)
